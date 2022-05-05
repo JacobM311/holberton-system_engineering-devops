@@ -1,3 +1,2 @@
 #!/bin/bash
-var_path=$PWD  
-echo $var_path
+chmod
