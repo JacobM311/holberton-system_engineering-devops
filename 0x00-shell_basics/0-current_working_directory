@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod
+chmod u+x 0-curretn_working_directory
