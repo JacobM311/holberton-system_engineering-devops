@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-for i in .
+for i in *
 do
- ls  | cut -d ':' -f 2,3
+ echo "$i"  | cut -d '-' -f 2-
 done
