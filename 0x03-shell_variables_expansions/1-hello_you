@@ -1,2 +1,2 @@
-#!/bin/bash
-alias user='MyUser'
+#!/bin/base
+echo 'hello MyUser'
