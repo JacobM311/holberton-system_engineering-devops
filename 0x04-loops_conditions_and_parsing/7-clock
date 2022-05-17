@@ -1,0 +1,8 @@
+1;95;0c#!/usr/bin/env bash
+hr=0
+while [ $hr -le 12 ]
+do
+ echo "Hour: $hr"
+ echo {1..59} | tr ' ' '\n'
+((hr++))
+done
