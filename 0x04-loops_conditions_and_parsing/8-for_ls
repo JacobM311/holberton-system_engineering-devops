@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#comment
 for i in *
 do
  echo "$i"  | cut -d '-' -f 2-
