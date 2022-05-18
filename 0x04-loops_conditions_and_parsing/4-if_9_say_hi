@@ -8,5 +8,5 @@ do
       echo "Hi"
   else echo "Best School"
   fi
-((x++))  
+((x++)) 
 done
